@@ -1,0 +1,8 @@
+D:\ust demosday13\WriteandReader\obj\Debug\WriteandReader.csproj.AssemblyReference.cache
+D:\ust demosday13\WriteandReader\obj\Debug\WriteandReader.csproj.SuggestedBindingRedirects.cache
+D:\ust demosday13\WriteandReader\obj\Debug\WriteandReader.csproj.CoreCompileInputs.cache
+D:\ust demosday13\WriteandReader\bin\Debug\WriteandReader.exe.config
+D:\ust demosday13\WriteandReader\bin\Debug\WriteandReader.exe
+D:\ust demosday13\WriteandReader\bin\Debug\WriteandReader.pdb
+D:\ust demosday13\WriteandReader\obj\Debug\WriteandReader.exe
+D:\ust demosday13\WriteandReader\obj\Debug\WriteandReader.pdb
