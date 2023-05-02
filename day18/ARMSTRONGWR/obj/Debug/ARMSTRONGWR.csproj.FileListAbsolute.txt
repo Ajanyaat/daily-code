@@ -1,0 +1,8 @@
+D:\ust demos\day18\ARMSTRONGWR\bin\Debug\ARMSTRONGWR.exe.config
+D:\ust demos\day18\ARMSTRONGWR\bin\Debug\ARMSTRONGWR.exe
+D:\ust demos\day18\ARMSTRONGWR\bin\Debug\ARMSTRONGWR.pdb
+D:\ust demos\day18\ARMSTRONGWR\obj\Debug\ARMSTRONGWR.csproj.AssemblyReference.cache
+D:\ust demos\day18\ARMSTRONGWR\obj\Debug\ARMSTRONGWR.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day18\ARMSTRONGWR\obj\Debug\ARMSTRONGWR.csproj.CoreCompileInputs.cache
+D:\ust demos\day18\ARMSTRONGWR\obj\Debug\ARMSTRONGWR.exe
+D:\ust demos\day18\ARMSTRONGWR\obj\Debug\ARMSTRONGWR.pdb

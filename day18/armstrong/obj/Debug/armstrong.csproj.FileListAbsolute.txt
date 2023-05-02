@@ -1,0 +1,8 @@
+D:\ust demos\day18\armstrong\bin\Debug\armstrong.exe.config
+D:\ust demos\day18\armstrong\bin\Debug\armstrong.exe
+D:\ust demos\day18\armstrong\bin\Debug\armstrong.pdb
+D:\ust demos\day18\armstrong\obj\Debug\armstrong.csproj.AssemblyReference.cache
+D:\ust demos\day18\armstrong\obj\Debug\armstrong.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day18\armstrong\obj\Debug\armstrong.csproj.CoreCompileInputs.cache
+D:\ust demos\day18\armstrong\obj\Debug\armstrong.exe
+D:\ust demos\day18\armstrong\obj\Debug\armstrong.pdb

@@ -1,0 +1,8 @@
+D:\ust demos\day18\SortList\bin\Debug\SortList.exe.config
+D:\ust demos\day18\SortList\bin\Debug\SortList.exe
+D:\ust demos\day18\SortList\bin\Debug\SortList.pdb
+D:\ust demos\day18\SortList\obj\Debug\SortList.csproj.AssemblyReference.cache
+D:\ust demos\day18\SortList\obj\Debug\SortList.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day18\SortList\obj\Debug\SortList.csproj.CoreCompileInputs.cache
+D:\ust demos\day18\SortList\obj\Debug\SortList.exe
+D:\ust demos\day18\SortList\obj\Debug\SortList.pdb

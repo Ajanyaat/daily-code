@@ -1,0 +1,8 @@
+D:\ust demos\day18\replaceall0swith5\bin\Debug\replaceall0swith5.exe.config
+D:\ust demos\day18\replaceall0swith5\bin\Debug\replaceall0swith5.exe
+D:\ust demos\day18\replaceall0swith5\bin\Debug\replaceall0swith5.pdb
+D:\ust demos\day18\replaceall0swith5\obj\Debug\replaceall0swith5.csproj.AssemblyReference.cache
+D:\ust demos\day18\replaceall0swith5\obj\Debug\replaceall0swith5.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day18\replaceall0swith5\obj\Debug\replaceall0swith5.csproj.CoreCompileInputs.cache
+D:\ust demos\day18\replaceall0swith5\obj\Debug\replaceall0swith5.exe
+D:\ust demos\day18\replaceall0swith5\obj\Debug\replaceall0swith5.pdb

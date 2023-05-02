@@ -1,0 +1,8 @@
+D:\ust demos\day18\swap2numbers\bin\Debug\swap2numbers.exe.config
+D:\ust demos\day18\swap2numbers\bin\Debug\swap2numbers.exe
+D:\ust demos\day18\swap2numbers\bin\Debug\swap2numbers.pdb
+D:\ust demos\day18\swap2numbers\obj\Debug\swap2numbers.csproj.AssemblyReference.cache
+D:\ust demos\day18\swap2numbers\obj\Debug\swap2numbers.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day18\swap2numbers\obj\Debug\swap2numbers.csproj.CoreCompileInputs.cache
+D:\ust demos\day18\swap2numbers\obj\Debug\swap2numbers.exe
+D:\ust demos\day18\swap2numbers\obj\Debug\swap2numbers.pdb
