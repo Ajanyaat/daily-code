@@ -1,0 +1,8 @@
+D:\ust demos\day23\linkexpression2\bin\Debug\linkexpression2.exe.config
+D:\ust demos\day23\linkexpression2\bin\Debug\linkexpression2.exe
+D:\ust demos\day23\linkexpression2\bin\Debug\linkexpression2.pdb
+D:\ust demos\day23\linkexpression2\obj\Debug\linkexpression2.csproj.AssemblyReference.cache
+D:\ust demos\day23\linkexpression2\obj\Debug\linkexpression2.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day23\linkexpression2\obj\Debug\linkexpression2.csproj.CoreCompileInputs.cache
+D:\ust demos\day23\linkexpression2\obj\Debug\linkexpression2.exe
+D:\ust demos\day23\linkexpression2\obj\Debug\linkexpression2.pdb
