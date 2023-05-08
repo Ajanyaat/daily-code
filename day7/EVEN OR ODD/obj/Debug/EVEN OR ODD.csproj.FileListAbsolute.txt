@@ -1,0 +1,8 @@
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\bin\Debug\EVEN OR ODD.exe.config
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\bin\Debug\EVEN OR ODD.exe
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\bin\Debug\EVEN OR ODD.pdb
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\obj\Debug\EVEN OR ODD.csproj.AssemblyReference.cache
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\obj\Debug\EVEN OR ODD.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\obj\Debug\EVEN OR ODD.csproj.CoreCompileInputs.cache
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\obj\Debug\EVEN OR ODD.exe
+D:\ust demos\BASIC PROGRAMS\EVEN OR ODD\obj\Debug\EVEN OR ODD.pdb
