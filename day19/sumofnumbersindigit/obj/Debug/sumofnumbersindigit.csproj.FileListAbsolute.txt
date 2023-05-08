@@ -1,0 +1,8 @@
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\bin\Debug\sumofnumbersindigit.exe.config
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\bin\Debug\sumofnumbersindigit.exe
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\bin\Debug\sumofnumbersindigit.pdb
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\obj\Debug\sumofnumbersindigit.csproj.AssemblyReference.cache
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\obj\Debug\sumofnumbersindigit.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\obj\Debug\sumofnumbersindigit.csproj.CoreCompileInputs.cache
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\obj\Debug\sumofnumbersindigit.exe
+D:\ust demos\BASIC PROGRAMS\sumofnumbersindigit\obj\Debug\sumofnumbersindigit.pdb

@@ -1,0 +1,8 @@
+D:\ust demos\BASIC PROGRAMS\largestof2nums\bin\Debug\largestof2nums.exe.config
+D:\ust demos\BASIC PROGRAMS\largestof2nums\bin\Debug\largestof2nums.exe
+D:\ust demos\BASIC PROGRAMS\largestof2nums\bin\Debug\largestof2nums.pdb
+D:\ust demos\BASIC PROGRAMS\largestof2nums\obj\Debug\largestof2nums.csproj.AssemblyReference.cache
+D:\ust demos\BASIC PROGRAMS\largestof2nums\obj\Debug\largestof2nums.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\BASIC PROGRAMS\largestof2nums\obj\Debug\largestof2nums.csproj.CoreCompileInputs.cache
+D:\ust demos\BASIC PROGRAMS\largestof2nums\obj\Debug\largestof2nums.exe
+D:\ust demos\BASIC PROGRAMS\largestof2nums\obj\Debug\largestof2nums.pdb
