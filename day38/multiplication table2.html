@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Multiplication Table</title>
+
+</head>
+
+<body>
+
+  <label for="number">Enter a number:</label>
+
+  <input type="number" id="numberInput">
+
+  <button onclick="generateTable()">Generate Table</button>
+
+  <br><br>
+
+  <table id="table"></table>
+
+  <script>
+
+    function generateTable() {
+
+      var number = document.getElementById('numberInput').value;
+
+      var table = document.getElementById('table');
+
+table.innerHTML = '';
+
+
+      for (var i = 1; i <= 10; i++) {
+
+        var row = document.createElement('tr');
+
+        var cell1 = document.createElement('td');
+
+        var cell2 = document.createElement('td');
+       var cell3= document.createElement('td');
+
+        var cell4 = document.createElement('td');
+       var cell5 = document.createElement('td');
+
+       
+
+
+        cell1.textContent = i;
+        cell2.textContent='*';
+        
+
+        cell3.textContent = number;
+        cell4.textContent = '=';
+        cell5.textContent = number * i;
+
+
+
+        row.appendChild(cell1);
+
+        row.appendChild(cell2);
+        row.appendChild(cell3);
+        row.appendChild(cell4);
+        row.appendChild(cell5);
+
+         
+
+        table.appendChild(row);
+
+      }
+
+    }
+
+  </script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
