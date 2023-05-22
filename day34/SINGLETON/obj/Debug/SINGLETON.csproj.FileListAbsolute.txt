@@ -1,0 +1,8 @@
+D:\ust demos\day34\SINGLETON\bin\Debug\SINGLETON.exe.config
+D:\ust demos\day34\SINGLETON\bin\Debug\SINGLETON.exe
+D:\ust demos\day34\SINGLETON\bin\Debug\SINGLETON.pdb
+D:\ust demos\day34\SINGLETON\obj\Debug\SINGLETON.csproj.AssemblyReference.cache
+D:\ust demos\day34\SINGLETON\obj\Debug\SINGLETON.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day34\SINGLETON\obj\Debug\SINGLETON.csproj.CoreCompileInputs.cache
+D:\ust demos\day34\SINGLETON\obj\Debug\SINGLETON.exe
+D:\ust demos\day34\SINGLETON\obj\Debug\SINGLETON.pdb
