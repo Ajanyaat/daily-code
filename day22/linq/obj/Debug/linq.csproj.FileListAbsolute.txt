@@ -1,0 +1,8 @@
+D:\ust demos\day21\linq\bin\Debug\linq.exe.config
+D:\ust demos\day21\linq\bin\Debug\linq.exe
+D:\ust demos\day21\linq\bin\Debug\linq.pdb
+D:\ust demos\day21\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+D:\ust demos\day21\linq\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day21\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+D:\ust demos\day21\linq\obj\Debug\linq.exe
+D:\ust demos\day21\linq\obj\Debug\linq.pdb

@@ -1,0 +1,8 @@
+D:\ust demos\day21\emplinq\bin\Debug\emplinq.exe.config
+D:\ust demos\day21\emplinq\bin\Debug\emplinq.exe
+D:\ust demos\day21\emplinq\bin\Debug\emplinq.pdb
+D:\ust demos\day21\emplinq\obj\Debug\emplinq.csproj.AssemblyReference.cache
+D:\ust demos\day21\emplinq\obj\Debug\emplinq.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day21\emplinq\obj\Debug\emplinq.csproj.CoreCompileInputs.cache
+D:\ust demos\day21\emplinq\obj\Debug\emplinq.exe
+D:\ust demos\day21\emplinq\obj\Debug\emplinq.pdb
