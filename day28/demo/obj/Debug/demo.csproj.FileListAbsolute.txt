@@ -1,0 +1,8 @@
+D:\ust demos\day28\demo\bin\Debug\demo.exe.config
+D:\ust demos\day28\demo\bin\Debug\demo.exe
+D:\ust demos\day28\demo\bin\Debug\demo.pdb
+D:\ust demos\day28\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+D:\ust demos\day28\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day28\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\ust demos\day28\demo\obj\Debug\demo.exe
+D:\ust demos\day28\demo\obj\Debug\demo.pdb

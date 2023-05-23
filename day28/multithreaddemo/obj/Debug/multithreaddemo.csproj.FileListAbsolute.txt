@@ -1,0 +1,8 @@
+D:\ust demos\day28\multithreaddemo\bin\Debug\multithreaddemo.exe.config
+D:\ust demos\day28\multithreaddemo\bin\Debug\multithreaddemo.exe
+D:\ust demos\day28\multithreaddemo\bin\Debug\multithreaddemo.pdb
+D:\ust demos\day28\multithreaddemo\obj\Debug\multithreaddemo.csproj.AssemblyReference.cache
+D:\ust demos\day28\multithreaddemo\obj\Debug\multithreaddemo.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\day28\multithreaddemo\obj\Debug\multithreaddemo.csproj.CoreCompileInputs.cache
+D:\ust demos\day28\multithreaddemo\obj\Debug\multithreaddemo.exe
+D:\ust demos\day28\multithreaddemo\obj\Debug\multithreaddemo.pdb
