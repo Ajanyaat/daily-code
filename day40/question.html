@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+<body>
+    <script>
+     var arr1=[100,25,30,70,50,67,74,8,12,45]
+     var arr2=arr1.reverse();
+      document.writeln("Reversed Array:" +" <br>");//+arr2+"<br>");r
+     // document.writeln(arr2+"<br>");
+     //documet.writeln("Numbers greater than 50:");
+       for(var i=0;i<10;i++)
+        {
+         try{
+         if(arr2[i]>50)
+         {
+         document.writeln(arr2[i]+"<br>");
+         }
+        else
+        {
+         throw error;
+        }
+        }
+         catch(error)
+         {
+         document.writeln("error"+"<br>");
+         }
+        }
+
+
+
+         // Display even numbers and odd numbers in two columns of a table
+
+         // Display even numbers and odd numbers in two columns of a table
+
+    var numbersTable = document.getElementById("numbersTable");
+
+    for (var i = 0; i < numbers.length; i++) {
+
+    var row = numbersTable.insertRow(-1);
+
+    var evenCell = row.insertCell(0);
+
+    var oddCell = row.insertCell(1);
+
+     if (numbers[i] % 2 === 0) {
+
+     evenCell.textContent = numbers[i];
+
+ } else {
+
+  oddCell.textContent = numbers[i];
+
+ }
+
+}
+
+</script>
+  
+      </script>
+</body>
+</html>
