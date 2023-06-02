@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi.csproj", "{14E9FF96-48DA-49DD-8D29-66568DF2170F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{82FD8CB8-CB0B-460E-8503-0A4B42F71954}"
+	ProjectSection(SolutionItems) = preProject
+		TodoContext.cs = TodoContext.cs
+		TodoItem.cs = TodoItem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wwwroot", "wwwroot", "{CE1C87B6-F095-40D8-B761-811E17A8A22C}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E9FF96-48DA-49DD-8D29-66568DF2170F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E9FF96-48DA-49DD-8D29-66568DF2170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E9FF96-48DA-49DD-8D29-66568DF2170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E9FF96-48DA-49DD-8D29-66568DF2170F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14E9FF96-48DA-49DD-8D29-66568DF2170F} = {CE1C87B6-F095-40D8-B761-811E17A8A22C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DDE2B5-482B-403F-9D3D-CA6902F2B7A3}
+	EndGlobalSection
+EndGlobal
