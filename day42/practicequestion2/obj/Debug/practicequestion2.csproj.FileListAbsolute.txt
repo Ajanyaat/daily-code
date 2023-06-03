@@ -1,0 +1,8 @@
+D:\ust demos\PracticeQuestion\practicequestion2\bin\Debug\practicequestion2.exe.config
+D:\ust demos\PracticeQuestion\practicequestion2\bin\Debug\practicequestion2.exe
+D:\ust demos\PracticeQuestion\practicequestion2\bin\Debug\practicequestion2.pdb
+D:\ust demos\PracticeQuestion\practicequestion2\obj\Debug\practicequestion2.csproj.AssemblyReference.cache
+D:\ust demos\PracticeQuestion\practicequestion2\obj\Debug\practicequestion2.csproj.SuggestedBindingRedirects.cache
+D:\ust demos\PracticeQuestion\practicequestion2\obj\Debug\practicequestion2.csproj.CoreCompileInputs.cache
+D:\ust demos\PracticeQuestion\practicequestion2\obj\Debug\practicequestion2.exe
+D:\ust demos\PracticeQuestion\practicequestion2\obj\Debug\practicequestion2.pdb
